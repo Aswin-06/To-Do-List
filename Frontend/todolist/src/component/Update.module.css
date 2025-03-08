@@ -1,0 +1,44 @@
+
+.div
+{
+    position: relative;
+    left: 25%;
+    top: 200px;
+    
+}
+
+.input
+{
+    height: 60px;
+    width: 600px;
+    background-color: rgb(1, 0, 0);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.update
+{
+    height: 45px;
+    width: 120px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(217, 224, 150);
+    font-size: 17px;
+    font-weight: 100;
+    position: relative;
+    left: 30px;
+}
+
+.cancel
+{
+    height: 45px;
+    width: 120px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(217, 224, 150);
+    font-size: 17px;
+    font-weight: 100;
+    position: relative;
+    left: 60px;
+}

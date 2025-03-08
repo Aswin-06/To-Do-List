@@ -1,0 +1,42 @@
+
+.input
+{
+    height: 60px;
+    width: 600px;
+    background-color: rgb(1, 0, 0);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.cont
+{
+    background-color: rgb(243, 241, 244);
+    height: 200px;
+    width: 1000px;
+    position: relative;
+    left: 25%;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    top: 200px;
+}
+
+.button
+{
+    height: 45px;
+    width: 120px;
+    position: relative;
+    top: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background-color: rgb(217, 224, 150);
+    font-size: 17px;
+    font-weight: 100;
+}
+
+.heading{
+    position: relative;
+    left: 42%;
+    top: 150px;
+}
